@@ -1,0 +1,5 @@
+repository: https://github.com/gochewy/docker-development-host.git
+name: docker-development-host
+type: infrastructure
+version: main
+dependencies: []
